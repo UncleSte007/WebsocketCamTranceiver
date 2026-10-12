@@ -18,7 +18,7 @@ const char* ssid = "atomcam";
 const char* password = "12345678";
 // const char* server_url = "ws://192.168.1.145:8080/";
 // const char* ssid     = "TP-Link_CCC7";
-// const char* password = "10596234";
+// const char* password = "..........";
 const char* server_url = "ws://192.168.4.1:8080/";
 using namespace websockets;
 WebsocketsClient client;

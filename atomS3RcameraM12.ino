@@ -17,7 +17,7 @@
 const char* ssid     = "atomcam";
 const char* password = "12345678";
 // const char* ssid     = "TP-Link_CCC7";
-// const char* password = "10596234";
+// const char* password = "..........";
 WebSocketsServer webSocket = WebSocketsServer(8080);
 int activeClientNum = -1; // Keep track of the active client ID
 
